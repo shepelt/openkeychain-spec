@@ -1,7 +1,7 @@
 # Summary
 
 * [Overview](README.md)
-* Domains
+* [Domains](domains.md)
 * Certificates
 * Record Format
 * Channels
