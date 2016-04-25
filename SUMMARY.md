@@ -5,4 +5,5 @@
 * Domains
 * Certificates
 * Record Format
+* Channels
 
