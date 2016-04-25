@@ -1,7 +1,7 @@
 # Summary
 
+* [Introduction](README.md)
 * [Introduction](readmemd.md)
-* [Introduction](readme.md)
 * [Domains](domains.md)
 * Certificates
 * Record Format
