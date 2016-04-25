@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * Overview
 * Domains
+* Certificates
 
