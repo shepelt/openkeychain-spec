@@ -1,8 +1,9 @@
 # Summary
 
+* [Introduction](README.md)
 * [Introduction](readme.md)
 * [Domains](domains.md)
-* Certificates
+* [Certificates](certificates.md)
 * Record Format
 * Channels
 * Conclustion
