@@ -4,7 +4,7 @@
 * [Introduction](readme.md)
 * [Domains](domains.md)
 * [Certificates](certificates.md)
-* Record Format
+* [Record Format](record_format.md)
 * Channels
 * Conclustion
 
