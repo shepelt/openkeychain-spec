@@ -5,6 +5,6 @@
 * [Domains](domains.md)
 * [Certificates](certificates.md)
 * [Record Format](record_format.md)
-* Channels
+* [Channels](channels.md)
 * Conclustion
 
